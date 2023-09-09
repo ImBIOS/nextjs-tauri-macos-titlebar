@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.4.0",
-    "@types/node": "20.4.1",
+    "@types/node": "20.6.0",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
     "autoprefixer": "10.4.14",
