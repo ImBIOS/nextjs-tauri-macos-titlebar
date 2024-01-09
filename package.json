@@ -24,6 +24,6 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.4.0"
+    "@tauri-apps/cli": "^1.5.6"
   }
 }
